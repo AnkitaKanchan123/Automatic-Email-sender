@@ -1,5 +1,6 @@
 # Automatic-Email-sender
 1.Objective: The goal is to automate the process of sending emails through Gmail's SMTP (Simple Mail Transfer Protocol) server using a Python script.
+
 2.Script and Libraries: 
 The script is written in Python.
 The  library smtplib is utilized. This library is part of Python's standard library and provides functions for sending emails using the SMTP protocol.
